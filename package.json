@@ -12,7 +12,7 @@
     "minimist": "^1.1.0",
     "pump": "^1.0.0",
     "request": "^2.45.0",
-    "root": "^3.1.0",
+    "root": "github:blahah/root",
     "send": "^0.10.1",
     "websocket-stream": "^5.0.1",
     "ws": "^3.1.0"
